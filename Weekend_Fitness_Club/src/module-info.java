@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author e
+ *
+ */
+module Education {
+}
